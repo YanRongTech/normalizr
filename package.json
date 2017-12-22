@@ -1,7 +1,7 @@
 {
   "name": "normalizr",
   "version": "1.0.0",
-  "main": "dist/normalizr.js"
+  "main": "dist/normalizr.js",
   "description": "",
   "scripts": {
     "dist": "webpack"
